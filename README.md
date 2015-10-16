@@ -1,2 +1,2 @@
 # application-rights-manager
-Credit Mutuel 
+A more user friendly application for managing rights to groups.
